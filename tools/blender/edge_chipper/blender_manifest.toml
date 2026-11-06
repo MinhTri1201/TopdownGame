@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "edge_chipper"
+version = "1.0.0"
+name = "Edge Chipper"
+tagline = "Auto-detect hard edges and add procedural chips and broken edges"
+maintainer = "TopdownGame"
+type = "add-on"
+
+blender_version_min = "5.0.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Modeling", "Material", "Geometry Nodes"]
